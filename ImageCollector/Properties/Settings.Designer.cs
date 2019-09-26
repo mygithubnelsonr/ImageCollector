@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ImageCollector.Properties
+namespace ImageCollectorSample.Properties
 {
 
 
